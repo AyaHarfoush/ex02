@@ -1,0 +1,11 @@
+commit a4d312f5eb9ea324e4afeef81af0002ad8de79a9
+Author: Aya_Harfoush <ayaharfoush43@gmail.com>
+Date:   Fri Oct 2 14:50:09 2026 -0400
+
+    Add hello.txt
+
+commit ae92fd772d9a4982061c78150a6de06c87914ad0
+Author: Aya_Harfoush <ayaharfoush43@gmail.com>
+Date:   Fri Oct 2 14:10:32 2026 -0400
+
+    initial commit
